@@ -44,6 +44,8 @@ Python
 [Discord](https://discord.com/users/299405708690980866)  
 [E-mail](mailto:marcinmikula840@gmail.com)
 
+---
+
 ## ENJOY! :tada: :rocket:
 
 ---
