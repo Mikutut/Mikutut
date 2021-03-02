@@ -43,6 +43,7 @@ Python
 
 [Discord](https://discord.com/users/299405708690980866)  
 [E-mail](mailto:marcinmikula840@gmail.com)
+[Twitter](https://twitter.com/mikutut)
 
 ---
 
