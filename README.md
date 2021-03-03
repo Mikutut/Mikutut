@@ -36,6 +36,8 @@ React
 Rust  
 GraphQL  
 Python
+WPF
+C(++)
 
 ---
 
