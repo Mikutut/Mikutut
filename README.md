@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 React  
 Rust  
 GraphQL  
-Python
-WPF
-C(++)
+Python  
+WPF  
+C(++)  
 
 ---
 
