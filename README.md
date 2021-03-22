@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # :wave: おはよう!
-### ~~Yes I'm a fucking weeb, what're you gonna do about it huh?~~
 
 ## Welcome to my GitHub profile!
 
-## I'm a highschooler and aspiring, trashy web developer lmao :upside_down_face:
+## I'm a highschooler and an aspiring, trashy web developer :upside_down_face:
 
 ---
 
