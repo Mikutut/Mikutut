@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## he/his 🚹
 
-## I literally have no idea what am I doing with my life lmao
+## I literally have no idea what I'm doing with my life lmao
 
 ---
 
