@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 
 ## Want to learn 📘:
 
-- React  
-- Rust  
-- GraphQL  
-- Python  
-- C(++/#) 
+- React
+- Rust
+- GraphQL
+- Python
+- C(++/#)
 - WPF
 
 ---
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## You can reach out to me via:
 
-[Twitter](https://twitter.com/mikutut)
+[Twitter](https://twitter.com/mikutut)  
 [Discord](https://discord.com/users/299405708690980866)  
 [E-mail](mailto:marcinmikula840@gmail.com)  
 
