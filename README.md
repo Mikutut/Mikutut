@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ## I'm a highschooler and an aspiring, trashy (web) developer :upside_down_face:
 
+## Occassionally plays [osu!](https://mikut.dev/osu) (~620pp / chokes on 3,5-4*)
+
 ## From Poland 🇵🇱
 
 ## he/his 🚹
