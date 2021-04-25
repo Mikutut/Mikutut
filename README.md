@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## I'm a highschooler and an aspiring, trashy (web) developer :upside_down_face:
 
-## Occasionally plays [osu!](https://mikut.dev/osu) (~620pp / chokes on 3,5-4*)
+## Occasionally plays [osu!](https://mikut.dev/osu) (~620pp / chokes on 3,5*)
 
 ## From Poland 🇵🇱
 
@@ -39,18 +39,23 @@ Here are some ideas to get you started:
 
 ## Want to learn 📘:
 
-- React
+- ~~React~~ *(currently learning)*
 - Rust
 - GraphQL
 - Python
-- C(++/#)
+- ~~C++~~ *(currently learning)*
+- C#
 - WPF
+- Go
+- Kotlin
+- Flutter
+- Elixir
 
 ---
 
 ## Currently working on 🛠️:
 
-- [My own website](https://mikut.dev)
+- ~~[My own website](https://mikut.dev)~~ *(under construction)*
 - ~~mktRP~~ *(on hold)*
  
 ---
