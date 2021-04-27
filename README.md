@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ## Currently working on 🛠️:
 
-- ~~[My own website](https://mikut.dev)~~ *(under construction)*
+- [My own website](https://mikut.dev)
 - ~~mktRP~~ *(on hold)*
  
 ---
