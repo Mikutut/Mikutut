@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ## Want to learn 📘:
 
 - ~~React~~ *(currently learning)*
-- Rust
+- ~~Rust~~ *(currently learning)*
 - GraphQL
 - Python
-- ~~C++~~ *(currently learning)*
+- C++
 - C#
 - WPF
 - Go
